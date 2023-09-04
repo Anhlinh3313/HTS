@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "708749638662",
+    "project_id": "hts-react",
+    "storage_bucket": "hts-react.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708749638662:android:a3aee37fe6b668b8409787",
+        "android_client_info": {
+          "package_name": "hts.hts.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708749638662-r49df9p8rml0rclojevdmidclo2lfeij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGXGAB8AUvnUaQOgdP6pw01D8u6pzMpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708749638662-r49df9p8rml0rclojevdmidclo2lfeij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708749638662-mei5ri8r9g4icdlogurnt8gkbmcs5lc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hts.htsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708749638662:android:8376ce5556dfc577409787",
+        "android_client_info": {
+          "package_name": "hts.htsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708749638662-r49df9p8rml0rclojevdmidclo2lfeij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGXGAB8AUvnUaQOgdP6pw01D8u6pzMpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708749638662-r49df9p8rml0rclojevdmidclo2lfeij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "708749638662-mei5ri8r9g4icdlogurnt8gkbmcs5lc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hts.htsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+export interface EstimateModel {
+    id?:any;
+    createdWhen?:any;
+    storeId?:any;
+    mgrintitals?:any;
+    budgetedDailySales?:any;
+    budgetedAccumSalessPD?:any;
+    actualDailySales?:any;
+    lessMgntMeab?:any;
+    lessVAT?:any;
+    lessSC?:any;
+    estimatedDailySales?:any;
+    estimatedAccumSalesPd?:any;
+    varianceDaily?:any;
+    varianceAccumulat?:any;
+    customerCount?:any;
+    checkAverage?:any;
+    wastageVND?:any;
+    wastage_Percent?:any;
+    actualStoreWorkingHours?:any;
+    payrollVND?:any;
+    payroll_Percent?:any;
+    budgetPayroll_Percent?:any;
+    actualSPMH?:any;
+    hoursShouldHaveUsded?:any;
+    variance?:any;
+    storeName?:any;
+    foC_Percent?:any;
+    discount_Percent?:any;
+    totalCount?:any;
+}

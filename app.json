@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "HTS - HospitalityTeamSolutions",
+    "slug": "HTSProd",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon_logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "userInterfaceStyle": "automatic",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1",
+      "supportsTablet": false,
+      "bundleIdentifier": "hts.hts.prod",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "This app will optionally use Face ID or Touch ID to save login",
+        "NSPhotoLibraryUsageDescription": "HTS app require access to your photo library to get your upload photo"
+      }
+    },
+    "android": {
+      "versionCode": 8,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon_logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "hts.hts.prod",
+      "permissions": ["NOTIFICATIONS"],
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
